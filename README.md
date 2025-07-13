@@ -1,6 +1,6 @@
-# Data_Ecommerce
+# Data E-Commerce
 
-E-commerce Data for Spark Operations
+E-Commerce Data for Spark Operations
 ====================================
 
 This repository contains a set of **e-commerce data** CSV files designed for teaching purposes. The data is modeled to simulate a real-world e-commerce business, and it is structured in a way that allows you to demonstrate various **Spark operations** and data manipulations.
